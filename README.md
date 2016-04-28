@@ -2,4 +2,5 @@
 
 Written for ICT1003-Computer Organisation and Architecture
 
-(https://img.youtube.com/vi/q1RzgweS0IM/0.jpg)
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/q1RzgweS0IM)
+
